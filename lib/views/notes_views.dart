@@ -5,6 +5,7 @@ import 'Widget/add_note_bottom_sheet.dart';
 import 'Widget/notes_view_body.dart';
 
 class NotesView extends StatelessWidget {
+  static const String routrName = 'notes_view';
   const NotesView({Key? key}) : super(key: key);
 
   @override
